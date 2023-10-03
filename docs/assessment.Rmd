@@ -15,6 +15,15 @@ This line will only remove user created objects, but other features will still r
 ## Braga et al., 2023
 
 ### Issues 
+
 **Issue One:** From the internets, it seems that for new repos, this is a good place for users to id problems they face or is a good platform for discussion about those potential problems. This is preferred to email, as issues experienced by other users could be viewed here as well as their solutions. 
 
 **Issue Two:** In addition to problem identification, issues can be assiged to other collaborators on the project where this tab can track such to-do items. If these requests were sent via email, they could get pushed to the bottom of the inbox pile. Using the issues tab, you can track who still needs to resolve what. woo project management!
+
+### GitHub Features
+
+**(1)** GitHub's ability to store the various components of a project (e.g., scripts, small datasets) in a centra places makes it easier for the user to know they have all of the pieces necessary to reproduce the intended result. 
+
+**(2)** The issues page makes it easier to track identified problems and for other users to access problems that have come up for others and their associated solutions. This page also provides a platform for users to report new issues and to help ensure the long term and successful use of the materials. 
+
+**(3)** GitHub can provide a platform for accessing the code involved in a new type of analysis that they can then modify and adapt to their data. By being able to easily access these materials, more users can catch bugs. Additionally, the tools are readily available to anyone who may want them, thus reducing the barriers to knowledge. 
